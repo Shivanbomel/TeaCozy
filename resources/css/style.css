@@ -5,6 +5,8 @@ body {
   color: seashell;
   background-color: black;
   opacity: 0.9;
+  width:100%;
+  margin: 0 auto;
 }
 
 header {
